@@ -26,7 +26,7 @@
                 ?>
 
             </div>
-            <p>Made a change</p>
+            <p>Made a change 2</p>
         </div>
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
